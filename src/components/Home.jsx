@@ -1,5 +1,7 @@
 
-
+import shape from '../../images/shape.png'
+import boy from '../../images/boy.png'
+import '../../css/responsive.css'
 const Home = () => {
     return (
       <>
@@ -20,9 +22,9 @@ const Home = () => {
               Download CV
             </a>
           </div>
-          <div className="images ">
-            <img src="images/shape.png" className="shape" />
-            <img src="images/boy.png" className="boy" />
+          <div className="images">
+            <img src={shape} className="shape" />
+            <img src={boy} className="boy" />
           </div>
 
           <div className="social">

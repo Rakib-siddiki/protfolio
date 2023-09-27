@@ -1,10 +1,10 @@
-
+import logo from '../../images/logo.png'
 const Navbar = () => {
     return (
       <>
         <nav className="navbar container navbar-expand-lg ">
           <a className="navbar-brand" href="#">
-            <img src="images/logo.png" alt="" />
+            <img src={logo} alt="logo" />
           </a>
           <button
             className="navbar-toggler"

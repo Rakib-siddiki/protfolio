@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap);
+/* @import url(https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@400;500;600;700&display=swap);
 
@@ -75,7 +75,7 @@ span {
 .text p {
   color: #ebebeb;
   font-family: "Sofia Sans Condensed", sans-serif;
-  width: 500px;
+  max-width:500px;
   font-size: 20px;
   line-height: 1.9rem;
   letter-spacing: .009em;
@@ -140,4 +140,4 @@ span {
 
 .social a:hover i {
   color: orange
-}
+} */
