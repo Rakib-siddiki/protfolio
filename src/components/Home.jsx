@@ -26,7 +26,6 @@ const Home = () => {
             <img src={shape} className="shape" />
             <img src={boy} className="boy" />
           </div>
-
           <div className="social">
             <a href="https://www.facebook.com/orakib901">
               <i className="fa-brands fa-facebook"></i>
